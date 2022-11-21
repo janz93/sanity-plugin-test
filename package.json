@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-test",
+  "name": "@janz93/sanity-plugin-test",
   "version": "1.0.0",
   "description": "",
   "main": "lib/YourPlugin.js",
