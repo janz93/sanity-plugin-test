@@ -15,7 +15,7 @@ jobs:
           node-version: '14.x'
           registry-url: 'https://npm.pkg.github.com'
           # Defaults to the user or organization that owns the workflow file
-          scope: '@cerascreen'
+          scope: '@janz93'
       - run: ls -l
       - run: npm ci
       - run: npm publish
