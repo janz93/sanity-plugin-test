@@ -9,7 +9,10 @@
     "watch": "sanipack build --watch",
     "prepublishOnly": "sanipack build && sanipack verify"
   },
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janz93/sanity-plugin-test"
+  },
   "keywords": [
     "sanity",
     "sanity-plugin"
